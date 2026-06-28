@@ -1,6 +1,6 @@
 # Cybersecurity Revision - Day 1
 
-**Date:** 28 June 2026
+**Date:** 27 June 2026
 
 ## Topics Covered
 
